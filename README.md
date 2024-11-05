@@ -253,6 +253,15 @@ link: https://app.powerbi.com/groups/me/reports/b530045b-4ac7-48d6-939b-3d110271
 
 
 ### SUMMARY INSIGHT
+-        Revenue and Profitability: The total revenue, total cost, and profit margin are calculated to evaluate business performance. Profit margins can be broken down by product, product category, and product color, identifying the most profitable products and categories.
+
+-        Product Performance: The queries identify the best-selling products and most profitable ones. They also highlight the top 3 product categories with the highest profits, helping businesses focus on high-demand and high-margin items.
+
+-        Return and Refund Analysis: Return-related metrics, including total returns, return rates, and refund rates, provide insights into customer dissatisfaction or product quality issues. Specific queries identify products and categories with the highest return quantities, enabling targeted improvements.
+
+-        Market and Customer Insights: The analysis covers the total number of transactions, the best-selling products, and the countries or regions with the highest return rates. This information aids in market segmentation and strategic decision-making for targeted marketing and operational improvements.
+
+Overall, these insights guide inventory management, marketing strategies, customer experience improvements, and profit optimization.
 A two-page report, single forecast report and two WHAT-IF report was created on Power BI Desktop & it was then published to Power BI Service.
 Following inferences can be drawn from the dashboard;
 
